@@ -13,4 +13,5 @@ Cons:
 - Occasional timeline shaking, due to the constant fight between the remover and the remover-defender from Twitter. 
 
 Note: The defender will add back all the missing promos and tweet recommends every some short time. Therefore, if the callback time has been set too slowly, you'll find tweet recommends coming back to annoy you.
+
 Note2: I'm planning to find a way to check the Twitter's script, and prohibit its defender from working, in the very future when I'm happy. Wish me good luck!
